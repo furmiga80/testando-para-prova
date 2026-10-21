@@ -1,0 +1,33 @@
+
+# ===================================
+# ARQUIVO .gitignore - JAVA / NETBEANS
+# ===================================
+
+# Arquivos compilados do Java
+*.class
+
+# Pastas de compilacao
+build/
+dist/
+target/
+
+# Arquivos temporarios e logs
+*.log
+*.tmp
+
+# Configuracoes privadas do NetBeans
+nbproject/private/
+
+# Configuracoes locais do usuario
+.settings/
+.project
+.classpath
+
+# Arquivos do sistema Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos de backup de editores
+*~
+*.bak
+*.swp
